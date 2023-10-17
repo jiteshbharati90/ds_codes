@@ -3,6 +3,8 @@ public class Print_Array {
         int arr[] = {10, 12, 23, 5, 65, 76, 7, 6, 54, 33};
 
 
+
+        // for each loop
         for (int jitesh: arr
              ) {
 
